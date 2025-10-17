@@ -1,1 +1,6 @@
 group1 - fileA
+change 1
+line A added
+line B added
+line C added
+main update
