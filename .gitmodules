@@ -1,0 +1,3 @@
+[submodule "vendor/my_project"]
+	path = vendor/my_project
+	url = https://github.com/sridevimarrey/my_project.git
